@@ -1,0 +1,486 @@
+[
+  {
+    "cardID": 1,
+    "key": 1,
+    "cardAccount": "656766585",
+    "maskedCardNumber": "4127********5858",
+    "expireDate": "23/01/23",
+    "currency": "AZN",
+    "status": "active",
+    "balance": "3400",
+    "transactions":[{
+      "transactionID": 1,
+      "key": 1,
+      "cardAccount": "2526888978454587",
+      "cardID": 1,
+      "amount": "2300",
+      "currency": "AZN",
+      "transactionDate": "13/09/2021",
+      "merchantInfo": "Starbucks"
+  },
+  {
+      "transactionID": 2,
+      "key": 2,
+      "cardAccount": "6767459802456754",
+      "cardID": 14,
+      "amount": 256,
+      "currency": "USD",
+      "transactionDate": "23/09/2021",
+      "merchantInfo": "Colins"
+  }]
+  },
+  {
+    "cardID": 2,
+    "key": 2,
+    "cardAccount": "656776485",
+    "maskedCardNumber": "4127********5432",
+    "expireDate": "20/04/26",
+    "currency": "AZN",
+    "status": "active",
+    "balance": "3450",
+    "transactions":[{
+      "transactionID": 2,
+      "key": 2,
+      "cardAccount": "6767459802456754",
+      "cardID": 14,
+      "amount": 256,
+      "currency": "USD",
+      "transactionDate": "23/09/2021",
+      "merchantInfo": "Colins"
+    },
+    {
+      "transactionID": 4,
+      "key": 4,
+      "cardAccount": "5687945623875469",
+      "cardID": 1,
+      "amount": 123,
+      "currency": "AZN",
+      "transactionDate": "09/04/2021",
+      "merchantInfo": "Azza"
+  }
+  ]
+  },
+  {
+    "cardID": 3,
+    "key": 3,
+    "cardAccount": "656121285",
+    "maskedCardNumber": "4127********1112",
+    "expireDate": "10/11/23",
+    "currency": "AZN",
+    "status": "blocked",
+    "balance": "1200",
+    "transactions":[{
+      "transactionID": 10,
+      "key": 10,
+      "cardAccount": "5687945623875469",
+      "cardID": 10,
+      "amount": 120,
+      "currency": "USD",
+      "transactionDate": "11/01/2022",
+      "merchantInfo": "Zara"
+  },
+  {
+      "transactionID": 11,
+      "key": 11,
+      "cardAccount": "5687945623875469",
+      "cardID": 3,
+      "amount": 25,
+      "currency": "AZN",
+      "transactionDate": "11/02/2022",
+      "merchantInfo": "Venstakaya skaska"
+  }]
+  },
+  {
+    "cardID": 4,
+    "key": 4,
+    "cardAccount": "656890585",
+    "maskedCardNumber": "4127********8090",
+    "expireDate": "12/01/24",
+    "currency": "AZN",
+    "status": "active",
+    "balance": "450",
+    "transactions":[
+      {
+        "transactionID": 13,
+        "key": 13,
+        "cardAccount": "5687945623875469",
+        "cardID": 5,
+        "amount": 67,
+        "currency": "EUR",
+        "transactionDate": "05/04/2021",
+        "merchantInfo": "Stardivarius"
+    },
+    {
+        "transactionID": 14,
+        "key": 14,
+        "cardAccount": "5687945623875469",
+        "cardID": 4,
+        "amount": 70,
+        "currency": "USD",
+        "transactionDate": "05/06/2020",
+        "merchantInfo": "Zara"
+    }
+    ]
+  },
+  {
+    "cardID": 5,
+    "key": 5,
+    "cardAccount": "656123285",
+    "maskedCardNumber": "4127********4323",
+    "expireDate": "12/10/25",
+    "currency": "AZN",
+    "status": "blocked",
+    "balance": "1200",
+    "transactions":[
+      {
+        "transactionID": 14,
+        "key": 14,
+        "cardAccount": "5687945623875469",
+        "cardID": 4,
+        "amount": 70,
+        "currency": "USD",
+        "transactionDate": "05/06/2020",
+        "merchantInfo": "Zara"
+    },
+    {
+      "transactionID": 14,
+      "key": 14,
+      "cardAccount": "5687945623875469",
+      "cardID": 4,
+      "amount": 70,
+      "currency": "USD",
+      "transactionDate": "05/06/2020",
+      "merchantInfo": "Zara"
+  }
+    ]
+  },
+  {
+    "cardID": 6,
+    "key": 6,
+    "cardAccount": "123166585",
+    "maskedCardNumber": "4127********6585",
+    "expireDate": "25/05/27",
+    "currency": "USD",
+    "status": "active",
+    "balance": "3400",
+    "transactions":[
+      {
+        "transactionID": 14,
+        "key": 14,
+        "cardAccount": "5687945623875469",
+        "cardID": 4,
+        "amount": 70,
+        "currency": "USD",
+        "transactionDate": "05/06/2020",
+        "merchantInfo": "Zara"
+    },
+    {
+        "transactionID": 15,
+        "key": 15,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 120,
+        "currency": "EUR",
+        "transactionDate": "10/04/2021",
+        "merchantInfo": "Riviera Restaurant"
+    }
+    ]
+  },
+  {
+    "cardID": 7,
+    "key": 7,
+    "cardAccount": "621065858",
+    "maskedCardNumber": "4127********5858",
+    "expireDate": "23/03/26",
+    "currency": "EUR",
+    "status": "blocked",
+    "balance": "5000",
+    "transactions":[
+      {
+        "transactionID": 9,
+        "key": 9,
+        "cardAccount": "5687945623875469",
+        "cardID": 12,
+        "amount": 90,
+        "currency": "EUR",
+        "transactionDate": "11/12/2020",
+        "merchantInfo": "Colins"
+    },
+    {
+        "transactionID": 10,
+        "key": 10,
+        "cardAccount": "5687945623875469",
+        "cardID": 10,
+        "amount": 120,
+        "currency": "USD",
+        "transactionDate": "11/01/2022",
+        "merchantInfo": "Zara"
+    }
+    ]
+  },
+  {
+    "cardID": 8,
+    "key": 8,
+    "cardAccount": "656766120",
+    "maskedCardNumber": "4127********1207",
+    "expireDate": "20/06/24",
+    "currency": "EUR",
+    "status": "active",
+    "balance": "2300",
+    "transactions":[
+      {
+        "transactionID": 6,
+        "key": 6,
+        "cardAccount": "5687945623875469",
+        "cardID": 7,
+        "amount": 76,
+        "currency": "USD",
+        "transactionDate": "15/03/2021",
+        "merchantInfo": "Nike"
+    },
+    {
+        "transactionID": 7,
+        "key": 7,
+        "cardAccount": "5687945623875469",
+        "cardID": 8,
+        "amount": 90,
+        "currency": "AZN",
+        "transactionDate": "10/04/2020",
+        "merchantInfo": "Adidas"
+    }
+    ]
+  },
+  {
+    "cardID": 9,
+    "key": 9,
+    "cardAccount": "612366123",
+    "maskedCardNumber": "4127********1238",
+    "expireDate": "23/01/23",
+    "currency": "AZN",
+    "status": "active",
+    "balance": "3400",
+    "transactions":[
+      
+    ]
+  },
+  {
+    "cardID": 10,
+    "key": 10,
+    "cardAccount": "127766324",
+    "maskedCardNumber": "4127********2348",
+    "expireDate": "20/06/22",
+    "currency": "AZN",
+    "status": "active",
+    "balance": "4320",
+    "transactions":[
+      {
+        "transactionID": 11,
+        "key": 11,
+        "cardAccount": "5687945623875469",
+        "cardID": 3,
+        "amount": 25,
+        "currency": "AZN",
+        "transactionDate": "11/02/2022",
+        "merchantInfo": "Venstakaya skaska"
+    },
+    {
+        "transactionID": 12,
+        "key": 12,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 80,
+        "currency": "USD",
+        "transactionDate": "21/02/2022",
+        "merchantInfo": "Bershka"
+    }
+    ]
+  },
+  {
+    "cardID": 11,
+    "key": 11,
+    "cardAccount": "612366585",
+    "maskedCardNumber": "4127********5858",
+    "expireDate": "23/01/23",
+    "currency": "AZN",
+    "status": "active",
+    "balance": "3400",
+    "transactions":[
+      {
+        "transactionID": 12,
+        "key": 12,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 80,
+        "currency": "USD",
+        "transactionDate": "21/02/2022",
+        "merchantInfo": "Bershka"
+    },
+    {
+        "transactionID": 13,
+        "key": 13,
+        "cardAccount": "5687945623875469",
+        "cardID": 5,
+        "amount": 67,
+        "currency": "EUR",
+        "transactionDate": "05/04/2021",
+        "merchantInfo": "Stardivarius"
+    },
+    {
+        "transactionID": 14,
+        "key": 14,
+        "cardAccount": "5687945623875469",
+        "cardID": 4,
+        "amount": 70,
+        "currency": "USD",
+        "transactionDate": "05/06/2020",
+        "merchantInfo": "Zara"
+    },
+    {
+        "transactionID": 15,
+        "key": 15,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 120,
+        "currency": "EUR",
+        "transactionDate": "10/04/2021",
+        "merchantInfo": "Riviera Restaurant"
+    }
+    ]
+  },
+  {
+    "cardID": 12,
+    "key": 12,
+    "cardAccount": "623166585",
+    "maskedCardNumber": "4127********5858",
+    "expireDate": "12/01/24",
+    "currency": "USD",
+    "status": "active",
+    "balance": "120",
+    "transactions":[
+      {
+        "transactionID": 8,
+        "key": 8,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 890,
+        "currency": "AZN",
+        "transactionDate": "21/06/2021",
+        "merchantInfo": "Emperium"
+    },
+    {
+        "transactionID": 9,
+        "key": 9,
+        "cardAccount": "5687945623875469",
+        "cardID": 12,
+        "amount": 90,
+        "currency": "EUR",
+        "transactionDate": "11/12/2020",
+        "merchantInfo": "Colins"
+    },
+    {
+        "transactionID": 10,
+        "key": 10,
+        "cardAccount": "5687945623875469",
+        "cardID": 10,
+        "amount": 120,
+        "currency": "USD",
+        "transactionDate": "11/01/2022",
+        "merchantInfo": "Zara"
+    }
+    ]
+  },
+  {
+    "cardID": 13,
+    "key": 13,
+    "cardAccount": "650966585",
+    "maskedCardNumber": "4127********5858",
+    "expireDate": "05/05/25",
+    "currency": "AZN",
+    "status": "blocked",
+    "balance": "3400",
+    "transactions":[
+      {
+        "transactionID": 5,
+        "key": 5,
+        "cardAccount": "5687945623875469",
+        "cardID": 9,
+        "amount": 54,
+        "currency": "AZN",
+        "transactionDate": "10/03/2021",
+        "merchantInfo": "Polo"
+    },
+    {
+        "transactionID": 6,
+        "key": 6,
+        "cardAccount": "5687945623875469",
+        "cardID": 7,
+        "amount": 76,
+        "currency": "USD",
+        "transactionDate": "15/03/2021",
+        "merchantInfo": "Nike"
+    },
+    {
+        "transactionID": 7,
+        "key": 7,
+        "cardAccount": "5687945623875469",
+        "cardID": 8,
+        "amount": 90,
+        "currency": "AZN",
+        "transactionDate": "10/04/2020",
+        "merchantInfo": "Adidas"
+    },
+    {
+        "transactionID": 8,
+        "key": 8,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 890,
+        "currency": "AZN",
+        "transactionDate": "21/06/2021",
+        "merchantInfo": "Emperium"
+    }
+    ]
+  },
+  {
+    "cardID": 14,
+    "key": 14,
+    "cardAccount": "612766585",
+    "maskedCardNumber": "4127********5858",
+    "expireDate": "20/08/26",
+    "currency": "USD",
+    "status": "active",
+    "balance": "890",
+    "transactions":[
+      {
+        "transactionID": 9,
+        "key": 9,
+        "cardAccount": "5687945623875469",
+        "cardID": 12,
+        "amount": 90,
+        "currency": "EUR",
+        "transactionDate": "11/12/2020",
+        "merchantInfo": "Colins"
+    },
+    {
+        "transactionID": 10,
+        "key": 10,
+        "cardAccount": "5687945623875469",
+        "cardID": 10,
+        "amount": 120,
+        "currency": "USD",
+        "transactionDate": "11/01/2022",
+        "merchantInfo": "Zara"
+    },
+    {
+        "transactionID": 11,
+        "key": 11,
+        "cardAccount": "5687945623875469",
+        "cardID": 3,
+        "amount": 25,
+        "currency": "AZN",
+        "transactionDate": "11/02/2022",
+        "merchantInfo": "Venstakaya skaska"
+    }
+    ]
+  }
+]

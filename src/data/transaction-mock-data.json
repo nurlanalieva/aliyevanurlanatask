@@ -1,0 +1,152 @@
+[
+    {
+        "transactionID": 1,
+        "key": 1,
+        "cardAccount": "2526888978454587",
+        "cardID": 1,
+        "amount": "2300",
+        "currency": "AZN",
+        "transactionDate": "13/09/2021",
+        "merchantInfo": "Starbucks"
+    },
+    {
+        "transactionID": 2,
+        "key": 2,
+        "cardAccount": "6767459802456754",
+        "cardID": 14,
+        "amount": 256,
+        "currency": "USD",
+        "transactionDate": "23/09/2021",
+        "merchantInfo": "Colins"
+    },
+    {
+        "transactionID": 3,
+        "key": 3,
+        "cardAccount": "5687945623875469",
+        "cardID": 2,
+        "amount": 120,
+        "currency": "AZN",
+        "transactionDate": "10/04/2020",
+        "merchantInfo": "Port Wine"
+    },
+    {
+        "transactionID": 4,
+        "key": 4,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 123,
+        "currency": "AZN",
+        "transactionDate": "09/04/2021",
+        "merchantInfo": "Azza"
+    },
+    {
+        "transactionID": 5,
+        "key": 5,
+        "cardAccount": "5687945623875469",
+        "cardID": 9,
+        "amount": 54,
+        "currency": "AZN",
+        "transactionDate": "10/03/2021",
+        "merchantInfo": "Polo"
+    },
+    {
+        "transactionID": 6,
+        "key": 6,
+        "cardAccount": "5687945623875469",
+        "cardID": 7,
+        "amount": 76,
+        "currency": "USD",
+        "transactionDate": "15/03/2021",
+        "merchantInfo": "Nike"
+    },
+    {
+        "transactionID": 7,
+        "key": 7,
+        "cardAccount": "5687945623875469",
+        "cardID": 8,
+        "amount": 90,
+        "currency": "AZN",
+        "transactionDate": "10/04/2020",
+        "merchantInfo": "Adidas"
+    },
+    {
+        "transactionID": 8,
+        "key": 8,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 890,
+        "currency": "AZN",
+        "transactionDate": "21/06/2021",
+        "merchantInfo": "Emperium"
+    },
+    {
+        "transactionID": 9,
+        "key": 9,
+        "cardAccount": "5687945623875469",
+        "cardID": 12,
+        "amount": 90,
+        "currency": "EUR",
+        "transactionDate": "11/12/2020",
+        "merchantInfo": "Colins"
+    },
+    {
+        "transactionID": 10,
+        "key": 10,
+        "cardAccount": "5687945623875469",
+        "cardID": 10,
+        "amount": 120,
+        "currency": "USD",
+        "transactionDate": "11/01/2022",
+        "merchantInfo": "Zara"
+    },
+    {
+        "transactionID": 11,
+        "key": 11,
+        "cardAccount": "5687945623875469",
+        "cardID": 3,
+        "amount": 25,
+        "currency": "AZN",
+        "transactionDate": "11/02/2022",
+        "merchantInfo": "Venstakaya skaska"
+    },
+    {
+        "transactionID": 12,
+        "key": 12,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 80,
+        "currency": "USD",
+        "transactionDate": "21/02/2022",
+        "merchantInfo": "Bershka"
+    },
+    {
+        "transactionID": 13,
+        "key": 13,
+        "cardAccount": "5687945623875469",
+        "cardID": 5,
+        "amount": 67,
+        "currency": "EUR",
+        "transactionDate": "05/04/2021",
+        "merchantInfo": "Stardivarius"
+    },
+    {
+        "transactionID": 14,
+        "key": 14,
+        "cardAccount": "5687945623875469",
+        "cardID": 4,
+        "amount": 70,
+        "currency": "USD",
+        "transactionDate": "05/06/2020",
+        "merchantInfo": "Zara"
+    },
+    {
+        "transactionID": 15,
+        "key": 15,
+        "cardAccount": "5687945623875469",
+        "cardID": 1,
+        "amount": 120,
+        "currency": "EUR",
+        "transactionDate": "10/04/2021",
+        "merchantInfo": "Riviera Restaurant"
+    }
+]
